@@ -27,9 +27,7 @@ class _DicePageState extends State<DicePage> {
   var lnum = 1;
 
   void run() {
-    rnum = 3;
-    lnum = 4;
-    Random(rnum);
+    Random().nextInt(7);
   }
 
   @override
