@@ -27,7 +27,8 @@ class _DicePageState extends State<DicePage> {
   var lnum = 1;
 
   void run() {
-    Random().nextInt(7);
+    lnum = Random().nextInt(6) + 1;
+    rnum = Random().nextInt(6) + 1 /**/;
   }
 
   @override
@@ -41,7 +42,6 @@ class _DicePageState extends State<DicePage> {
                 setState(() {
                   run();
                 });
-                print('Left button was pressed!');
               },
               child: Image(
                 image: AssetImage("images/dice$lnum.png"),
@@ -54,7 +54,6 @@ class _DicePageState extends State<DicePage> {
                 setState(() {
                   run();
                 });
-                print('Right button was pressed!');
               },
               child: Image(
                 image: AssetImage("images/dice$rnum.png"),

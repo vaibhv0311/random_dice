@@ -1,16 +1,10 @@
-# random_dice
+#Random Dice App 
+Created this app as a part of my journey to learn development
+in Flutter and through this app I learnt how to use 
+buttons and functions of the maths library in Flutter
 
-A new Flutter project.
+#Main motive:
+1. Learn the usage of buttons
+2. Learn the usage of maths library
+3. Learn the usage of functions in Dart.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
