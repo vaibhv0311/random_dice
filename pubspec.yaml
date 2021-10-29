@@ -1,5 +1,5 @@
-name: random_dice
-description: A new Flutter project.
+name: "Random Dice"
+description: A fun flutter project to generate random dices till they match
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
