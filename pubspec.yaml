@@ -1,4 +1,4 @@
-name: "Random Dice"
+name: random_dice
 description: A fun flutter project to generate random dices till they match
 
 # The following line prevents the package from being accidentally published to
